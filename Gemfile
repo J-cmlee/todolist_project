@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gemspec
 # ruby '2.5.0'
 
 gem 'minitest', '~> 5.10'
